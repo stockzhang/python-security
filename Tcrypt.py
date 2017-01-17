@@ -1,4 +1,5 @@
 # -*- coding:utf8 -*-
+#该脚本windows不支持。
 #!/usr/bin/python
 import crypt   #导入crypt模块
 import time
